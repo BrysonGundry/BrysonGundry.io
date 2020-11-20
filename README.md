@@ -12,5 +12,5 @@ https://www.kaggle.com/zynicide/wine-reviews
 
 #### Sources:
 Dynamic BarChart: https://observablehq.com/@lemonode/a-bar-chart-with-an-unnecessary-ammount-of-features Created by Robert Pettersson  
-Legends: https://observablehq.com/@d3/color-legend 
-Colors: https://observablehq.com/@d3/color-schemes 
+Legends: https://observablehq.com/@d3/color-legend  
+Colors: https://observablehq.com/@d3/color-schemes  
